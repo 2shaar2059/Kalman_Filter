@@ -1,7 +1,6 @@
 import numpy as np
 import math
 import matplotlib.pyplot as plt
-import sys
 from scipy.signal import cont2discrete as c2d
 
 from KalmanFilter import Kalman_Filter
